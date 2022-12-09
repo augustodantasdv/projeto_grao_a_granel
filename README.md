@@ -8,6 +8,4 @@ https://augustodantasdv.github.io/projeto_grao_a_granel/index/principal/index.ht
 </br></br>
 
 
-</br>
-<a href="https://augustodantasdv.github.io/coding_senac/index/principal/index.html">https://augustodantasdv.github.io/coding_senac/index/principal/index.html</a>
-</br></br>
+
