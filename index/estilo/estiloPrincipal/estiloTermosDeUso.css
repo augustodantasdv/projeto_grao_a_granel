@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(45deg, rgba(54, 148, 0, 0.678), rgba(54, 148, 0, 0.678), rgb(231, 238, 238)) ;
+}
+
+.termosDeUso{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    width: 800px;
+    text-align: justify;
+    padding: 30px;
+    position: absolute;
+    margin-left: 25%;
+    
+}
+
+.checkbox{
+    display: flex;
+}
+
+input{
+    margin-right: 15px;
+}
+
+button{
+    background-color: gray;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 35%;
+
+}
+
+button:hover{
+    background-color: lightgrey;
+    color: darkslategrey;
+    cursor: pointer;
+}
